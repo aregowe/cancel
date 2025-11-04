@@ -1511,10 +1511,6 @@ This addon directly cancels buffs without confirmation. Use with caution to avoi
 
 ## 📖 Additional Resources
 
-**Performance Analysis:**
-- See `PERFORMANCE_METRICS_EXPLANATION.md` for detailed benchmark methodology
-- See `OPTIMIZATION_REPORT.md` for technical implementation notes
-
 **External Links:**
 - [Windower Official Site](https://www.windower.net/)
 - [Windower Lua API Documentation](https://github.com/Windower/Lua/wiki/)
