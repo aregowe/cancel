@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Author:** Byrth  
-**Optimized by:** Performance Analysis & Refactoring
+**Optimized by:** TheGwardian
 
 ## 📋 Overview
 
