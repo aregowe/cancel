@@ -244,11 +244,6 @@ end
 //cancel Shell*
 ```
 
-### Clear Food Buff
-```
-//cancel food
-```
-
 ## 🔄 Version History
 
 ### v1.0 (Optimized)
